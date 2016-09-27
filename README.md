@@ -10,3 +10,6 @@ tutorial from Udemy
 
 # Install axios
 `npm install --save axios`
+
+# Install Twitter Boostrap
+`meteor add twbs:bootstrap@3.3.6`
