@@ -6,6 +6,7 @@ tutorial from Udemy
 
 # Install React
 `npm install --save  react`
+`npm install --save  react-dom`
 
 # Install axios
 `npm install --save axios`
